@@ -1,0 +1,9 @@
+[[var]]
+identifier = "observer_name"
+type = "text"
+message = "What is the name of your observer?"
+
+[[var]]
+identifier = "event_name"
+type = "text"
+message = "What is the name of the event to observe?"
